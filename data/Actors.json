@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"josh","characterIndex":0,"characterName":"josh","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"josh","traits":[],"initialLevel":1,"maxLevel":99,"name":"Josh","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"ball sprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"gwen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gwen","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"ball sprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"laura","traits":[],"initialLevel":1,"maxLevel":99,"name":"Laura","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"ball sprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ivy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ivy","nickname":"","note":"","profile":""}
+]
